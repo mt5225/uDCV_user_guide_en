@@ -1,5 +1,5 @@
 ***********************
-UI Walk Thought
+UI Walkthrought
 ***********************
 
 About Scenes
